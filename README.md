@@ -1,2 +1,1 @@
-# bookbot
-Boot.dev project of CLI 
+BookBot is my first project!
